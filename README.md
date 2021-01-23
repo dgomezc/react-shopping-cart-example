@@ -1,3 +1,13 @@
+This project was created using the FreeCodeCamp tutorial: https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript/
+
+You'll also learn how to use:
+
+- Material UI
+- Styled Components
+- and React-Query for React hooks
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
